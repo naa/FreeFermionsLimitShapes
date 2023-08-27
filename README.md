@@ -84,3 +84,7 @@ postdoc at the University of Chicago. Anton's research interests are
 representation theory of Lie algebras, conformal field theory,
 integrable systems, determinantal point processes. 
 
+## Lecture notes, demonstrations and videos. 
+
+1. Course overview, hook walk algorithm: [Lecture notes](Lecture1.pdf), [Jupyter notebook](Lecture1.ipynb) [Video](https://youtu.be/CQsAI9FybfA)
+2. Infinite wedge space, Heisenberg algebra, bosonic Fock space, free fermions [Lecture notes](Lecture2-2023-05-19-Note-07-21.pdf), [Video](https://youtu.be/vfInsBqF_Bo)
