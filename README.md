@@ -93,7 +93,7 @@ Lecture notes are handwritten using Wacom tablet and [Xournal++](https://xournal
 
 On some lectures computer demonstrations were used. Most code in demonstrations is written in Python, but most of the times [Sage](sagemath.org) is used for simplicity of interaction with C code. To run these demonstrations on Linux it is enough to install Sage and development libraries from the distribution repository (e.g. `apt install sage libgmp-dev`). Faster implementations of [dual RSK algorithm](dual-rsk-for-sage.c) and [Proctor algorithm for simplectic groups](proctor.c) are written in C and available in this repository. 
 
-## List of lectures, lecture notes, demonstrations and videos. 
+## List of lectures
 
 1. Course overview, hook walk algorithm: [Lecture notes](Lecture1.pdf), [Jupyter notebook](Lecture1.ipynb), [Video](https://youtu.be/CQsAI9FybfA)
 2. Infinite wedge space, Heisenberg algebra, bosonic Fock space, free fermions: [Lecture notes](Lecture2-2023-05-19-Note-07-21.pdf), [Video](https://youtu.be/vfInsBqF_Bo)
